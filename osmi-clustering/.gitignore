@@ -1,8 +1,6 @@
-# created by virtualenv automatically
-*
    .idea/
+   .venv/
    .ipynb_checkpoints/
    __pycache__/
    .DS_Store
-   .venv/
-   testing stuff.ipynb
+   testing*.ipynb
